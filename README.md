@@ -18,14 +18,15 @@ and our dapps.
 special thanks must be given to the following teams because without them Bitcorn
 Labs would not be possible:
 
->Icp Thugs
->DFINITY
->Sneed Dao
->Anvil
->Icdevs
->Icpswap
->Ghost Team
->Sonic.ooo
->Iclighthouse
+>Icp Thugs,
+>DFINITY,
+>Sneed Dao,
+>Windoge98 team,
+>Anvil,
+>Icdevs,
+>Icpswap,
+>Ghost Team,
+>Sonic.ooo,
+>Iclighthouse,
 
 and many more 
