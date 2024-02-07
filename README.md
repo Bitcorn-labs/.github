@@ -8,3 +8,24 @@ Developers, Innovators & Project Managers on the Interner Computer
 
 Landing Page:
 # https://aalgg-jaaaa-aaaak-afkwq-cai.icp0.io
+
+
+This git page contains all the active repositorys for Bitcorn Labs
+all of these repos can be forked and we hope other teams feel free
+to use, engage with and improve our ICRC and other standard implementations
+and our dapps. 
+
+special thanks must be given to the following teams because without them Bitcorn
+Labs would not be possible:
+
+>Icp Thugs
+>DFINITY
+>Sneed Dao
+>Anvil
+>Icdevs
+>Icpswap
+>Ghost Team
+>Sonic.ooo
+>Iclighthouse
+
+and many more 
