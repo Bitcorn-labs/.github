@@ -2,7 +2,7 @@
 
 # Developers, Innovators & Project Managers on the Interner Computer
 
-OSS Software Development
+OS Software Development
 
 Standard Implemenation Development for Canisters on the Internet Computer
 
